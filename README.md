@@ -56,6 +56,7 @@ docker-compose.yml.
 Dashboard tipo Apple Music Admin generado con v0.dev.
 ---
 ## n 10. Video
+https://youtu.be/gnf81Kg4xyw
 Duración: 7 minutos. Incluye arquitectura, API, pipelines y dashboard.
 ---
 ## n 11. Consideraciones Técnicas
