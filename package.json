@@ -5,7 +5,8 @@
   "main": "seed.js",
   "scripts": {
     "start": "node seed.js",
-    "seed": "node seed.js"
+    "seed": "node seed.js",
+    "start": "node api/server.js"
   },
   "keywords": [
     "mongodb",
@@ -17,9 +18,19 @@
   "license": "ISC",
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
-    "mongodb": "^6.5.0"
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.21.0"
   },
   "engines": {
     "node": ">=16.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugbrero/seeding.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hugbrero/seeding/issues"
+  },
+  "homepage": "https://github.com/hugbrero/seeding#readme"
 }

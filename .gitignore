@@ -1,0 +1,6 @@
+node_modules/
+mongo_data/
+.env
+.vscode/
+.DS_Store
+npm-debug.log
